@@ -1,0 +1,12 @@
+---
+id: logicool-wireless-presenter
+tags:
+- logicool
+version: 1.0.0
+licenses:
+- LGPLv3+
+author:
+  markup_language: :rd
+  name: Kouhei Sutou
+  email: kou@cozmixng.org
+  rubygems_user: kou
